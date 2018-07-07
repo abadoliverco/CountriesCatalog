@@ -1,0 +1,43 @@
+*.gem
+*.rbc
+/.config
+coverage/
+/InstalledFiles
+/pkg/
+/spec/reports/
+/test/tmp/
+/test/version_tmp/
+/tmp/
+rspec_logs.json
+test_output/
+.DS_STORE
+.keys
+
+## Specific to Android
+.gradle/
+*.iml
+local.properties
+.idea
+
+## Specific to screengrab
+/screengrab/example/fastlane/metadata/
+
+## Specific to RubyMotion:
+.dat*
+.repl_history
+build/
+
+# fastlane specific
+/*.itmsp
+.idea
+spec/fixtures/*.itmsp/*.png
+/integration
+**/report.xml
+**/.bundle
+
+.DS_Store
+/build
+/captures
+
+# fabric
+/app/fabric.properties

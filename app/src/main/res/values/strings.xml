@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Countries Catalog</string>
+    <string name="title_country_list">List of Countries</string>
+    <string name="title_country_details">Country Details</string>
+</resources>
